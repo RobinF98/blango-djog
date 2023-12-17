@@ -1,1 +1,1 @@
-web: blango-djog.wsgi 
+web: blog.wsgi 
