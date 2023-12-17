@@ -1,1 +1,1 @@
-web: blog.wsgi 
+web: codestar.wsgi 
